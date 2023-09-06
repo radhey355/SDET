@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1805" started-at="2023-06-03T11:59:20Z" finished-at="2023-06-03T11:59:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1805" started-at="2023-06-03T11:59:20Z" finished-at="2023-06-03T11:59:22Z">
+      <class name="com.all_login.Login_for_all">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:com.all_login.Login_for_all@add0edd]" name="Browser" is-config="true" duration-ms="4234" started-at="2023-06-03T11:59:16Z" finished-at="2023-06-03T11:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="LoginToPage()[pri:1, instance:com.all_login.Login_for_all@add0edd]" name="LoginToPage" duration-ms="1363" started-at="2023-06-03T11:59:20Z" finished-at="2023-06-03T11:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToPage -->
+        <test-method status="PASS" signature="Dash()[pri:2, instance:com.all_login.Login_for_all@add0edd]" name="Dash" duration-ms="81" started-at="2023-06-03T11:59:22Z" finished-at="2023-06-03T11:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dash -->
+        <test-method status="PASS" signature="use_rform()[pri:3, instance:com.all_login.Login_for_all@add0edd]" name="use_rform" duration-ms="324" started-at="2023-06-03T11:59:22Z" finished-at="2023-06-03T11:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- use_rform -->
+      </class> <!-- com.all_login.Login_for_all -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
